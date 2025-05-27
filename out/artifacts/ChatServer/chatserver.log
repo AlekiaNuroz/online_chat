@@ -1,0 +1,20 @@
+May 27, 2025 10:33:02 A.M. ChatServer main
+INFO: Server starting on port 12345...
+May 27, 2025 10:42:06 A.M. ChatServer$ClientHandler handleCommand
+SEVERE: Server shutdown initiated by admin.
+May 27, 2025 10:42:44 A.M. ChatServer main
+INFO: Server starting on port 12345...
+May 27, 2025 11:43:29 A.M. ChatServer$ClientHandler handleCommand
+SEVERE: Server shutdown initiated by admin.
+May 27, 2025 11:43:36 A.M. ChatServer main
+INFO: Server starting on port 12345...
+May 27, 2025 12:27:37 P.M. ChatServer$ClientHandler handleCommand
+SEVERE: Server shutdown initiated by admin.
+May 27, 2025 12:27:57 P.M. ChatServer main
+INFO: Server starting on port 12345...
+May 27, 2025 2:11:11 P.M. ChatServer$ClientHandler handleCommand
+SEVERE: Server shutdown initiated by admin.
+May 27, 2025 2:11:33 P.M. ChatServer main
+INFO: Server starting on port 12345...
+May 27, 2025 2:14:12 P.M. ChatServer$ClientHandler handleCommand
+SEVERE: Server shutdown initiated by admin.
